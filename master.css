@@ -1,0 +1,35 @@
+body{
+  font-family:inherit;
+  color: yellow;
+}
+
+h1{
+  color: black;
+  font-family: fantasy;
+
+}
+
+.aarogbopaelem {
+  color: black;
+  background-color: lightpink;
+  margin: 2em;
+  padding: 2em;
+  border: 5px solid red;
+}
+.Gymnasieogjob {
+  font-size: 4em:
+  background-color: lightblue;
+  color: white;
+}
+
+
+.qwer {
+  background-color: lightpink;
+  margin: 2em;
+  padding: .3em;
+  color: black;
+  border: 5px solid red;
+}
+em:hover {
+  font-size: 2em:
+}
